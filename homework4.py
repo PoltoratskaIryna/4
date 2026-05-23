@@ -1,3 +1,4 @@
+# Коментар для створення Pull Request: dev відрізняється від main
 # Реалізація паралельного обчислення градин Колатца для чисел від 1 до 10 000 000
 import time
 from concurrent.futures import ThreadPoolExecutor
